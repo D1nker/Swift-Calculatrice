@@ -1,0 +1,1 @@
+More or less the same ideas as the [android](http://gitlab.krugazor.eu/zino/android-calculator) calculator, but with more swift!
